@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FC65038C-1B2F-41E1-A629-BED71D161FFF}") = "PacktPubProject (USR) [PacktPub]", "PacktPubProject\PacktPubProject.rnrproj", "{02EC5A62-8DF1-44AE-8650-0F23BD8C26AF}"
+EndProject
+Project("{FC65038C-1B2F-41E1-A629-BED71D161FFF}") = "VendAccountRenameProject (USR) [PacktPub]", "VendAccountRenameProject\VendAccountRenameProject.rnrproj", "{4F8126DC-EF52-40DC-9EE2-452047D943CB}"
+EndProject
+Project("{FC65038C-1B2F-41E1-A629-BED71D161FFF}") = "VendAccountDocumentProject (USR) [PacktPub]", "VendAccountDocumentProject\VendAccountDocumentProject.rnrproj", "{9C30043A-8C50-4C0D-A6FC-A259E275E98B}"
+EndProject
+Project("{FC65038C-1B2F-41E1-A629-BED71D161FFF}") = "VendTableTemporaryProject (USR) [PacktPub]", "VendTableTemporaryProject\VendTableTemporaryProject.rnrproj", "{95E8F8DC-0CC7-46F8-A402-C98B3498D378}"
+EndProject
+Project("{FC65038C-1B2F-41E1-A629-BED71D161FFF}") = "MainAccountCopyProject (USR) [PacktPub]", "MainAccountCopyProject\MainAccountCopyProject.rnrproj", "{B67B44FD-D9C1-4961-9D45-D9B3F08777C1}"
+EndProject
+Project("{FC65038C-1B2F-41E1-A629-BED71D161FFF}") = "ProjTableQueryProject (USR) [PacktPub]", "ProjTableQueryProject\ProjTableQueryProject.rnrproj", "{367749D5-104C-4028-B74A-1DC0349FEDC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02EC5A62-8DF1-44AE-8650-0F23BD8C26AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02EC5A62-8DF1-44AE-8650-0F23BD8C26AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F8126DC-EF52-40DC-9EE2-452047D943CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F8126DC-EF52-40DC-9EE2-452047D943CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C30043A-8C50-4C0D-A6FC-A259E275E98B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C30043A-8C50-4C0D-A6FC-A259E275E98B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95E8F8DC-0CC7-46F8-A402-C98B3498D378}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95E8F8DC-0CC7-46F8-A402-C98B3498D378}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B67B44FD-D9C1-4961-9D45-D9B3F08777C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B67B44FD-D9C1-4961-9D45-D9B3F08777C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{367749D5-104C-4028-B74A-1DC0349FEDC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{367749D5-104C-4028-B74A-1DC0349FEDC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
